@@ -4,6 +4,7 @@ stages:
   - test
   - integration
   - build
+  - deploy
 steps:
   main_clone:
     title: Cloning main repository...
